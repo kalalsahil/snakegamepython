@@ -5,7 +5,8 @@ import random
 import pygame
 import tkinter as tk
 from tkinter import messagebox
- 
+
+#speed of snake functions 
 class cube(object):
     rows = 20
     w = 500
